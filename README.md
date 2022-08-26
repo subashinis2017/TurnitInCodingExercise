@@ -6,5 +6,5 @@
 2. Clone this repository as described here: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 3. Navigate to the TurnitInCodingExercise directory
 4. Compile the java file WordFrequency.java by executing the command `javac WordFrequency.java`
-5. Execute the java file WordFrequency.java by using the command `java WordFrequency`
+5. Execute the java file WordFrequency.java by using the command `java WordFrequency` and follow the prompts
 
